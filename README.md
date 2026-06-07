@@ -9,13 +9,13 @@ This repository contains projects completed during my Data Analytics Internship 
 Status: Completed
 
 ### 🟡 Task 2: Exploratory Data Analysis (EDA)
-Status: Planned
+Status: Progress
 
 ### 🔵 Task 3: Data Visualization
-Status: Planned
+Status: Progress
 
 ### 🟣 Task 4: Sentiment Analysis
-Status: Planned
+Status: Progress
 
 ## Tools Used
 - Python
