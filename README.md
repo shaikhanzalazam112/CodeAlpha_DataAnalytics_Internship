@@ -1,7 +1,7 @@
 # 📊 CodeAlpha Data Analytics Internship
 
 ## About
-This repository contains projects completed during my Data Analytics Internship at CodeAlpha.
+This repository contains projects completed during my Data Analytics Internship at CodeAlpha..
 
 ## Tasks
 
