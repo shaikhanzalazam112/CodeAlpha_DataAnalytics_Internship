@@ -1,21 +1,21 @@
-# CodeAlpha Data Analytics Internship
+# 📊 CodeAlpha Data Analytics Internship
 
 ## About
 This repository contains projects completed during my Data Analytics Internship at CodeAlpha.
 
 ## Tasks
 
-### Task 1: Web Scraping
+### 🟢 Task 1: Web Scraping
 Status: Completed
 
-### Task 2: Exploratory Data Analysis (EDA)
-Status: In Progress
+### 🟡 Task 2: Exploratory Data Analysis (EDA)
+Status: Planned
 
-### Task 3: Data Visualization
-Status: In Progress
+### 🔵 Task 3: Data Visualization
+Status: Planned
 
-### Task 4: Sentiment Analysis
-Status: In Progress
+### 🟣 Task 4: Sentiment Analysis
+Status: Planned
 
 ## Tools Used
 - Python
